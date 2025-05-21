@@ -50,6 +50,7 @@ The most important findings from the EDA and ML stages are presented visually in
 **Aleksej Talstou**  
 Data Analyst / Aspiring Data Scientist  
 Email: talstou@gmail.com 
+
 [LinkedIn Profile](https://www.linkedin.com/in/aliaxey-talstou/)
 
 ---
