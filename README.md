@@ -48,7 +48,7 @@ The most important findings from the EDA and ML stages are presented visually in
 ## Author
 
 **Aleksej Talstou**  
-Data Analyst / Aspiring Data Scientist   
+Aspiring Data Scientist   
 LinkedIn: www.linkedin.com/in/aliaxey-talstou
 
 ---
