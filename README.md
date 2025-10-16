@@ -21,11 +21,7 @@ The most important findings from the EDA and ML stages are presented visually in
 
 [View Dashboard on Tableau Public](https://public.tableau.com/views/BerlinRenatalsProject/MapandKPI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-![Tableau Dashboard Preview 1](Berlin_Rentals_Tableau_Preview_1.png)
-
-![Tableau Dashboard Preview 2](Berlin_Rentals_Tableau_Preview_2.png)
-
-![Tableau Dashboard Preview 3](Berlin_Rentals_Tableau_Preview_3.png)
+![Tableau Dashboard Preview](Berlin_Rentals_Tableau_Preview_4.png)
 
 ---
 
