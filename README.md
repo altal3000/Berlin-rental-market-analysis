@@ -19,7 +19,7 @@ This section applies supervised machine learning to predict rent prices. A simpl
 ### Part 3 – Tableau Dashboard
 The most important findings from the EDA and ML stages are presented visually in an interactive dashboard on Tableau Public.
 
-[View Dashboard on Tableau Public](https://public.tableau.com/views/BerlinRenatalsProject/MapandKPI?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View Dashboard on Tableau Public](https://public.tableau.com/app/profile/aleksej.talstou/viz/BerlinRenatalsProject/Dashboard4?publish=yes)
 
 ![Tableau Dashboard Preview](Berlin_Rentals_Tableau_Preview_4.png)
 
